@@ -1,0 +1,1 @@
+In this repo, I follow a Goland tutorial to learn the basics of it.
